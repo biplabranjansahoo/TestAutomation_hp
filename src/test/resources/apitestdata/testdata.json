@@ -1,0 +1,8 @@
+{
+"env" : "Prod",
+"url" : "https://support.hp.com",
+"username":"abhi21@yopmail.com",
+"password":"Password@123",
+"country" : "us-en",
+"languages": ["en","zh","he"]
+}
